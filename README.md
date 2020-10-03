@@ -1,11 +1,9 @@
 # zellviewsenso
+# subethasensomatic
 
-### zellview **Senso**
+#### zellview **Senso**
 
 <!-- ## subethasensomatic -->
-
-### sub etha sensomatic
-
 Sub
   Etha
   Sensomatic
