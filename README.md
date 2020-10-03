@@ -1,17 +1,13 @@
 # zellviewsenso
 
+'## subethasensomatic
+
 ### Sub etha sensomatic
 
-
-##subethasensomatic
-
-
 Sub
-
   Etha
+  Sensomatic
+      
+  <img src=docu/zellviewsenso.png />
   
-      Sensomatic
-      
-      <img src=docu/zellviewsenso.png />
-      
       
